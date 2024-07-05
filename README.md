@@ -1,4 +1,4 @@
-# 💫 Hey, Iam Taher Asghar!
+# 💫 Hey, I'm Taher Asghar!
 # 💻 About Me
 Motivated Computer Science graduate with a strong passion for software development, possessing a broad range of skills in software creation and database management.
 ## 🌐 Socials:
