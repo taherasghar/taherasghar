@@ -1,5 +1,6 @@
 # 💫 Hey, Iam Taher Asghar!
-
+# 💻 About Me
+Motivated Computer Science graduate with a strong passion for software development, possessing a broad range of skills in software creation and database management.
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/753627308505563238) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taher-asghar-585948279) 
